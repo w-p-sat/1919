@@ -99,7 +99,7 @@ body{
     background-color: #97e6d200;
     -webkit-box-shadow: inset 0px 0px 24px 0px rgba(255, 0, 209, 1);
     -moz-box-shadow: inset 0px 0px 24px 0px rgba(255, 0, 209, 1);
-    box-shadow: inset 0px 0px 110px 0px rgba(255, 0, 209, 1);
+    box-shadow: inset 0px 0px 110px 0px rgb(157 0 129);
 }
 .neon_bet{
     margin-top: auto;
@@ -159,3 +159,4 @@ box-shadow: inset 0px 0px 24px 0px rgba(0, 255, 13, 0);
     left: -245px;
   }
 }
+
